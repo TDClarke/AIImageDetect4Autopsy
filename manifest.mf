@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: AIImageDetect4Autopsy
+OpenIDE-Module-Localizing-Bundle: uk/co/aiimagedetect/autopsy/Bundle.properties
+OpenIDE-Module-Specification-Version: 2.0.0
+
+
+
